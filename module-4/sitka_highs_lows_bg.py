@@ -1,5 +1,5 @@
 # Name: Brian Guadron
-# Date: 11/18/2026
+# Date: 11/14/2026
 # Assignment Number - Module 4.2 Assignment
 #
 # Purpose - The purpose is to develop a Python program that reads weather data from the sitka_weather_2018_simple.csv file and allows the users to
